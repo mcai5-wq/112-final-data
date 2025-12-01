@@ -131,10 +131,8 @@ keeper
 kernel
 kindle
 lament
-lantern
 latest
 latent
-launder
 lawful
 legend
 lesson
@@ -158,7 +156,6 @@ medium
 method
 metric
 midway
-mimicry
 minute
 mirror
 modern
@@ -240,7 +237,6 @@ sphere
 spiral
 spirit
 spring
-sprung
 square
 stable
 stitch
@@ -265,8 +261,6 @@ thrive
 ticket
 timber
 tinsel
-tonight
-topic
 tragic
 travel
 treaty
@@ -275,7 +269,6 @@ tunnel
 uncopy
 unfold
 untidy
-vacuum
 velvet
 victim
 victor
